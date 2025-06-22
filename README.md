@@ -1,4 +1,4 @@
-# DataStructureProject
+# Distributed Systems Project
 
 Yeshiva University Distributed Systems class project.
 
